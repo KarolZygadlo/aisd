@@ -1,4 +1,4 @@
-## Wprowadzenie do pracowni programowania obiektowego
+## Wprowadzenie do pracowni algorytmów i struktur danych
 
 ### Agenda
 Przewidywany plan zajęć kształtuje się następująco:
