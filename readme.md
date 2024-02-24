@@ -10,3 +10,6 @@ Strona kursu dla semestru IV na kierunku Informatyka na Wydziale Nauk Techniczny
 1. Implementacja dynamicznych struktur danych
 1. Wykonanie zadań z zakresu geometrii obliczeniowej oraz teorii grafów
 1. Podsumowanie semestru
+
+### Listy zadań
+1. [Lista zadań nr. 1](./excercises/lab02-03.md)
