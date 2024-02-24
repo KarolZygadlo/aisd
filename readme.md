@@ -13,5 +13,3 @@ Strona kursu dla semestru IV na kierunku Informatyka na Wydziale Nauk Techniczny
 
 ### Listy zadań
 1. [Lista zadań nr. 1](./excercises/lab02-03.md)
-1. test
-1. test
